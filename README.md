@@ -1,4 +1,4 @@
-# `dotfiles-common-software`
+# `dotfiles-common-software-role`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-common-software-role.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-common-software-role)
 
