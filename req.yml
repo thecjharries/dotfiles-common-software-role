@@ -1,2 +1,2 @@
 ---
-- src: git+https://github.com/thecjharries/dotfiles-package-installer-role.git
+- src: git+https://github.com/thecjharries/dotfiles-role-package-installer.git
