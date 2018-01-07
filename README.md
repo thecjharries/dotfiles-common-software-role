@@ -1,6 +1,8 @@
-# `dotfiles-common-software-role`
+# `dotfiles-role-common-software`
+# `dotfiles-role-common-software`
 
-[![Build Status](https://travis-ci.org/thecjharries/dotfiles-common-software-role.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-common-software-role)
+[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-common-software.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-common-software)
+[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-common-software.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-common-software)
 
 ## Requirements
 
@@ -34,7 +36,8 @@ needed_packages:
 
 ## Dependencies
 
-[`dotfiles-package-installer-role` (repo)](https://github.com/thecjharries/dotfiles-package-installer-role)
+[`dotfiles-role-package-installer` (repo)](https://github.com/thecjharries/dotfiles-role-package-installer)
+[`dotfiles-role-package-installer` (repo)](https://github.com/thecjharries/dotfiles-role-package-installer)
 
 ## Example Playbook
 
@@ -43,7 +46,8 @@ needed_packages:
 - hosts: all
 
   roles:
-    - role: dotfiles-common-software-role
+    - role: dotfiles-role-common-software
+    - role: dotfiles-role-common-software
 ```
 
 ## License
