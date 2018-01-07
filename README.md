@@ -1,7 +1,7 @@
 # `dotfiles-role-common-software`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-common-software.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-common-software)
-[![GitHub release](https://img.shields.io/github/release/thecjharries/dotfiles-role-common-software.svg)](https://github.com/thecjharries/dotfiles-role-common-software)
+[![GitHub tag](https://img.shields.io/github/tag/thecjharries/dotfiles-role-common-software.svg)](https://github.com/thecjharries/dotfiles-role-common-software)
 
 ## Requirements
 
