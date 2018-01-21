@@ -1,1 +1,9 @@
 ---
+- name: "Install packages"
+  package:
+    name: "{{ item }}"
+    state: latest
+  with_items: "{{ common_packages }}"
+  become: yes
+  tags:
+    - install

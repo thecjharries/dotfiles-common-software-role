@@ -1,5 +1,5 @@
 ---
-needed_packages:
+common_packages:
   - gcc
   - gcc-c++
   - automake
