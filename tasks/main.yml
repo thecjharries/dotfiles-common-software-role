@@ -7,3 +7,4 @@
   become: yes
   tags:
     - install
+    - only_once
