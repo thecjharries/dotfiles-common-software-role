@@ -12,7 +12,7 @@ Fedora 27 is recommended.
 These `vars` are set:
 
 ```yml
-needed_packages:
+common_packages:
   - gcc
   - gcc-c++
   - automake
@@ -32,10 +32,6 @@ needed_packages:
   - util-linux-user
   - libselinux-python
 ```
-
-## Dependencies
-
-[`dotfiles-role-package-installer` (repo)](https://github.com/thecjharries/dotfiles-role-package-installer)
 
 ## Example Playbook
 

@@ -1,5 +1,2 @@
 ---
 allow_duplicates: no
-dependencies:
-  - role: dotfiles-role-package-installer
-    packages_to_install: "{{ needed_packages }}"
